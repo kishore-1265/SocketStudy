@@ -108,8 +108,9 @@ print("Server says:", data)
 client_socket.close()
 ```
 
-## output:
+## output: server side
 <img width="1846" height="196" alt="image" src="https://github.com/user-attachments/assets/f81e104c-0849-4a3a-8f6d-96f7f5d26a25" />
+## output: client side
 <img width="1852" height="150" alt="image" src="https://github.com/user-attachments/assets/dd069a9f-af9f-4d40-8e05-952e1b65d44a" />
 
 
